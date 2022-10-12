@@ -1,0 +1,60 @@
+img {
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid #0d33c9;
+}
+
+details {
+    font-size: 30px;
+    background-color: lightblue;
+    color: #0d33c9;
+    font-family: Stencil Std, fantasy;
+    align-content: center;
+}
+
+.topnav {
+    background-color: lightblue;
+    overflow: hidden;
+}
+  
+.topnav a {
+    float: left;
+    color: #0d33c9;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: #0d33c9;
+    color: white;
+}
+  
+.topnav a.active {
+    background-color: #0d33c9;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    font-family: Stencil Std, fantasy;
+    color: #0d33c9;
+    font-size: 60px;
+    text-align: center;
+}
+
+.online{
+    font-family: Stencil Std, fantasy;
+    color: #0d33c9;
+    font-size: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
